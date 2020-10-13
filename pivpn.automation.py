@@ -3,6 +3,7 @@ import os
 import colorama
 from colorama import Fore, Style
 print(Fore.RED + ".")
+os.system('clear')
 
 os.system('pivpn -c')
 time.sleep(300)
