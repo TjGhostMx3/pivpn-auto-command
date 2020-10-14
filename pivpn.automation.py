@@ -9,6 +9,7 @@ print("Developed By TjGHostMX")
 print("Please Wait 5 Seconds")
 time.sleep(5)
 print("THANK YOU FOR USING MY SCRIPT")
+time.sleep(3)
 os.system('clear')
 
 os.system('pivpn -c')
