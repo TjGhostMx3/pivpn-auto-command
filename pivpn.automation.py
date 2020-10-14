@@ -1,17 +1,40 @@
-import time
 import os
+import time
 import colorama
 from colorama import Fore, Style
-print(Fore.RED + " ")
 
-os.system('clear')
-print("                                                Developed By TjGHostMX")
-print("                                                Please Wait 5 Seconds")
-time.sleep(5)
-os.system('clear')
+print(Fore.RED + " ")
+banner_text = '''
+   .~~.   .~~.
+  '. \ ' ' / .'
+   .~ .~~~..~.
+  : .~.'~'.~. :
+ ~ (   ) (   ) ~
+( : '~'.~.'~' : )
+ ~ .~ (   ) ~. ~
+  (  : '~' :  )   FOR PIVPN WIREGUARD 
+   '~ .~~~. ~'
+       '~' '''
+print("" + banner_text + "")
 print(Fore.BLUE + " ")
-print("                                              THANK YOU FOR USING MY SCRIPT")
-time.sleep(3)
+time.sleep(1)
+os.system('clear')
+print("Developed By Tjghostmx.")
+time.sleep(1)
+os.system('clear')
+print("Developed By tJghostmx..")
+time.sleep(1)
+os.system('clear')
+print("Developed By tjGhostmx...")
+time.sleep(1)
+os.system('clear')
+print("Developed By tjgHostmx.")
+time.sleep(1)
+os.system('clear')
+print("Developed By tjghOstmx..")
+time.sleep(1)
+os.system('clear')
+print("Developed By tjghoStmx...")
 os.system('clear')
 
 os.system('pivpn -c')
