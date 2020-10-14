@@ -5,10 +5,12 @@ from colorama import Fore, Style
 print(Fore.RED + " ")
 
 os.system('clear')
-print("Developed By TjGHostMX")
-print("Please Wait 5 Seconds")
+print("                                                Developed By TjGHostMX")
+print("                                                Please Wait 5 Seconds")
 time.sleep(5)
-print("THANK YOU FOR USING MY SCRIPT")
+os.system('clear')
+print(Fore.BLUE + " ")
+print("                                              THANK YOU FOR USING MY SCRIPT")
 time.sleep(3)
 os.system('clear')
 
