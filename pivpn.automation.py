@@ -2,11 +2,14 @@ import time
 import os
 import colorama
 from colorama import Fore, Style
-print(Fore.RED + ".")
+print(Fore.RED + " ")
 
-print("Developed")
-print("BY")
-print("TjGhostMx")
+os.system('clear')
+print("Developed By TjGHostMX")
+print("Please Wait 5 Seconds")
+time.sleep(5)
+print("THANK YOU FOR USING MY SCRIPT")
+os.system('clear')
 
 os.system('pivpn -c')
 time.sleep(300)
