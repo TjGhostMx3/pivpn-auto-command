@@ -3,6 +3,7 @@ import time
 import colorama
 from colorama import Fore, Style
 
+os.system('clear')
 print(Fore.RED + " ")
 banner_text = '''
    .~~.   .~~.
@@ -17,7 +18,7 @@ banner_text = '''
        '~' '''
 print("" + banner_text + "")
 print(Fore.BLUE + " ")
-time.sleep(1)
+time.sleep(2)
 os.system('clear')
 print("Developed By Tjghostmx.")
 time.sleep(1)
@@ -4036,4 +4037,4 @@ os.system('pivpn -c')
 time.sleep(300)
 print(Fore.RED + ".")
 print("===========TJGHOSTMX=============== ")
-print(" ")
+print("Restart Script python pivpn.automation.py ")
